@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yolisss
 - 👀 I’m interested in learning how to grow within the tech field!
-- 🌱 I’m currently learning javascript with a little history of HTML and CSS. 
+- 🌱 I’m currently learning Javascript with a little history of HTML and CSS. 
 - 💞️ I’m looking to collaborate on any projects to further expand my knowledge in JS. 
 - 📫 How to reach me ... yolisisabel28@gmail.com
 
