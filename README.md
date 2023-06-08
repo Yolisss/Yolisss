@@ -19,6 +19,7 @@ I'm open to discussions, collaboration, and exploring new opportunities!
 <div align='center'>
 Let's code and create something amazing together! 💻
   </div>
+  </br>
  <div align='center'>
   <img src="https://media.tenor.com/qsbLvtvzEjQAAAAC/pusheen-computer.gif" />
    </br>
