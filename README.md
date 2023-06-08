@@ -6,8 +6,7 @@
 
 🌱 Whether it's diving deeper into JavaScript frameworks, exploring new technologies, or collaborating on exciting projects, I'm always ready to take on new challenges and contribute my expertise to meaningful software development endeavors.
 
-📫 Feel free to reach out to me via yolisisabel@gmail.com or connect with me on www.linkedin.com/in/
-yolisma-zacarias4
+📫 Feel free to reach out to me via yolisisabel@gmail.com or connect with me on www.linkedin.com/in/yolisma-zacarias4
 
 . I'm open to discussions, collaboration, and exploring new opportunities!
 
