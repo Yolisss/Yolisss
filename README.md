@@ -1,6 +1,6 @@
 ## <div align="center">About Me<div>
 <div align="center">
-👋 Hello there! I'm Yolis, a junior software developer with a passion for coding and a strong focus on JavaScript. I have hands-on experience working on projects using the PERN stack (PostgreSQL, Express.js, React.js, and Node.js), which has allowed me to develop full-stack web applications efficiently.
+👋 Hello there! I'm Yolis, a Junior Full Stack Software Engineer with a passion for coding and a strong focus on JavaScript. I have hands-on experience working on projects using the PERN stack (PostgreSQL, Express.js, React.js, and Node.js), which has allowed me to develop full-stack web applications efficiently.
 </div>
   </br>
   <div align="center">
