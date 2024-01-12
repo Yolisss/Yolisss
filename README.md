@@ -1,11 +1,7 @@
 ## <div align="center">About Me<div>
 <div align="center">
-👋 Hello there! I'm Yolis, a Junior Full Stack Software Engineer with a passion for coding and a strong focus on JavaScript. I have hands-on experience working on projects using the PERN stack (PostgreSQL, Express.js, React.js, and Node.js), which has allowed me to develop full-stack web applications efficiently.
+👋 Hello there! I'm Yolis, a Software Engineer Apprentice with a passion for coding and a strong focus on JavaScript. Currently working on application to improve my skills.
 </div>
-  </br>
-  <div align="center">
-🚀 I'm constantly seeking new opportunities to expand my knowledge and skills in the tech field. I enjoy exploring different programming concepts, experimenting with innovative solutions, and staying up-to-date with the latest industry trends.
-  </div>
   </br>
 <div align="center">
 🌱 Whether it's diving deeper into JavaScript frameworks, exploring new technologies, or collaborating on exciting projects, I'm always ready to take on new challenges and contribute my expertise to meaningful software development endeavors.
