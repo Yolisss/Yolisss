@@ -9,7 +9,7 @@
   </br>
 <div align='center'>
 📫 Feel free to reach out to me via yolisisabel@gmail.com or connect with me on www.linkedin.com/in/yolisma-zacarias4
-I'm open to discussions, collaboration, and exploring new opportunities!
+I'm open to discussions and collaborating!
 </div>
 </br>
 <div align='center'>
