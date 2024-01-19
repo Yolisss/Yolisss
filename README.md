@@ -4,7 +4,7 @@
 </div>
   </br>
 <div align="center">
-🌱 Whether it's diving deeper into JavaScript frameworks, exploring new technologies, or collaborating on exciting projects, I'm always ready to take on new challenges and contribute my expertise to meaningful software development endeavors.
+🌱 Whether it's diving deeper into JavaScript frameworks, exploring new technologies, or collaborating on exciting projects, I'm always ready to take on new challenges and contribute to meaningful software development endeavors.
   </div>
   </br>
 <div align='center'>
