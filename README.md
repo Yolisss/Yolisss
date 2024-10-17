@@ -1,6 +1,6 @@
 ## <div align="center">About Me<div>
 <div align="center">
-👋 Hello there! I'm Yolis, a Software Engineer Apprentice with a passion for coding and a strong focus on JavaScript. Currently working on applications to improve my skills through AnitB x Intuit Program.
+👋 Hello there! I'm Yolis, a Software Engineer Apprentice with a passion for coding and a strong focus on JavaScript. 
 </div>
   </br>
 <div align="center">
